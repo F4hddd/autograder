@@ -11,4 +11,4 @@ for k in range(1, L):
         sequence.append(sequence[-1] + k)  # use ak-1 + k
 
 # Final output
-[print(item) for item in sequence]
+[print(sequence)]
